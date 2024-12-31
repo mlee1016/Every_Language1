@@ -1,7 +1,8 @@
 gTTS==2.5.4
 konlpy==0.6.0
 pandas==1.5.3
-pydub==0.25.1
+pydub==0.25.
+
 schedule==1.2.2
-streamlit==1.30.0
+
 streamlit==1.40.1
