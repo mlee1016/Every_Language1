@@ -26,7 +26,7 @@ nav2 = {
     ],
     "Other options": [
         st.Page("Russian_lookat_list copy.py", title="All lists"),
-        st.Page("russian_studyingphrasescopy.py", title="Phrase's Definition"),
+        st.Page("Russian_studyingphrasescopy.py", title="Phrase's Definition"),
 
     ],
     
