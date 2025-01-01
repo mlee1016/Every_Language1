@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 
-from Every_Language1.Every_korean_ph import *
+from Every_korean_ph import *
 #from audio_ko import ko_polite_present
 import pandas as pd
 st.markdown(
