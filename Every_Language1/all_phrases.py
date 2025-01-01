@@ -43,7 +43,7 @@ nav2 = {
     ],
     
     "4) JAPANESE Study Options                ": [
-        st.Page("Japanese_post5.py", title="Choices(Multiple)"),
+        st.Page("japanese_post5.py", title="Choices(Multiple)"),
         st.Page("J_listening-reading.py", title="Listening/Reading"),
         st.Page("J_Replicate_anki.py", title="Classic studying"),
         st.Page("J_stream_.py", title="Type-in"),
