@@ -2,7 +2,7 @@ import csv
 import copy
 from audio_ko import ko_polite_present, ko_polite_useful
 default_Ko_Ph = [[] for i in range(7)]
-with open(r'\every_Language1\Every_Language1\korean_present_polite.csv', encoding="utf-8") as f:
+with open('/every_Language1/Every_Language1/korean_present_polite.csv', encoding="utf-8") as f:
     reader = csv.reader(f)
     default_Ko_Ph[0] = list(reader)
 with open(r'Every_Language1\korean_past_polite.csv', encoding="utf-8") as f:
