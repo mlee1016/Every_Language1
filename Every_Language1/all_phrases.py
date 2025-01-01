@@ -20,7 +20,7 @@ nav2 = {
   
     "2) RUSSIAN Study Options----        ": [
         st.Page("Russia_post5.py", title="Choices(Multiple)"),
-        st.Page("russian_listening-readingcopy.py", title="Listening/Reading"),
+        st.Page("russian_listening-reading copy.py", title="Listening/Reading"),
         st.Page("Russian_Replicate_anki_copy.py", title="Classic studying"),
         st.Page("russian_stream_copy.py", title="Type-in"),
     ],
