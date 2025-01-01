@@ -17,17 +17,17 @@ with open(r'C:\Users\Owner\PycharmProjects\Every_Language1\Every_Language1\korea
 with open(r'C:\Users\Owner\PycharmProjects\Every_Language1\Every_Language1\korean_past_polite2.csv', encoding="utf-8") as f:
     reader = csv.reader(f)
     default_Ko_Ph[3] = list(reader)
-with open(r'C:\Users\Owner\PycharmProjects\Every_Language\Every_Language1\korean_future_polite2.csv', encoding="utf-8") as f:
+with open(r'C:\Users\Owner\PycharmProjects\Every_Language1\Every_Language1\korean_future_polite2.csv', encoding="utf-8") as f:
     reader = csv.reader(f)
     default_Ko_Ph[4] = list(reader)
 
 
-with open('C:\Users\Owner\PycharmProjects\Every_Language\Every_Language1\korean_useful_phrases.csv', encoding="utf-8") as f:
+with open('C:\Users\Owner\PycharmProjects\Every_Language1\Every_Language1\korean_useful_phrases.csv', encoding="utf-8") as f:
     reader = csv.reader(f)
     default_Ko_Ph[5] = list(reader)
 
 
-with open(r'C:\Users\Owner\PycharmProjects\Every_Language\Every_Language1\korean_grammar_particle.csv', encoding="utf-8") as f:
+with open(r'C:\Users\Owner\PycharmProjects\Every_Language1\Every_Language1\korean_grammar_particle.csv', encoding="utf-8") as f:
     reader = csv.reader(f)
     default_Ko_Ph[6] = list(reader)
 
