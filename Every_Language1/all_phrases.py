@@ -22,7 +22,7 @@ nav2 = {
         st.Page("Russia_post5.py", title="Choices(Multiple)"),
         st.Page("russian_listening-reading copy.py", title="Listening/Reading"),
         st.Page("Russian_Replicate_anki_copy.py", title="Classic studying"),
-        st.Page("russian_stream_copy.py", title="Type-in"),
+        st.Page("Russian_stream_copy.py", title="Type-in"),
     ],
     "Other options": [
         st.Page("russian_lookat_listcopy.py", title="All lists"),
